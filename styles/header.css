@@ -1,0 +1,36 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+header{
+    background-color: black;
+    height: 80px;
+    width: 100%;
+}
+
+#logo{
+    float: left;
+    margin: 30px 0px 0px 60px;
+    text-decoration: none;
+    color: aliceblue;
+}
+.headdiv ul{
+    float: right;
+    margin: 30px 60px 0px 0px;
+}
+
+.headdiv ul li{
+    display: inline;
+    text-decoration: none;
+    color: aliceblue;
+    margin-right: 20px;
+    
+}
+.headdiv ul li a{
+
+    text-decoration: none;
+    color: aliceblue;
+
+    
+}

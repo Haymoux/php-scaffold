@@ -1,0 +1,72 @@
+.container  {
+    width: 80%;
+    margin: auto;
+
+}
+
+.homeTitle {
+    margin: auto;
+    padding-top: 10%;
+    text-align: center;
+}
+
+#welcome{
+    padding-left: 17px;
+}
+
+.gen_link{
+    text-decoration: none;
+    color: black;
+}
+
+._stbox{
+    min-width: 150px;
+    max-width: 150px;
+    min-height: 120px;
+    background-color: #f2f2f2;
+    text-align: center;
+    border-style: solid;
+    border-color: blue;
+    border-width: 2px;
+}
+._stbox p{
+    margin: auto;
+    padding-top: 20px;
+}
+
+._ndbox{
+    margin-top: -123.5px;
+    float: right;
+    position: relative;
+    min-width: 150px;
+    max-width: 150px;
+    min-height: 120px;
+    background-color: #f2f2f2;
+    text-align: center;
+    border-style: solid;
+    border-color: blue;
+    border-width: 2px;
+}
+
+._ndbox p{
+    margin: auto;
+    padding-top: 20px;
+}
+
+._rdbox{
+    margin: auto;
+    margin-top: 70px;
+    min-width: 150px;
+    max-width: 150px;
+    min-height: 120px;
+    background-color: #f2f2f2;
+    text-align: center;
+    border-style: solid;
+    border-color: blue;
+    border-width: 2px;
+}
+._
+rdbox p{
+    margin: auto;
+    padding-top: 20px;
+}
